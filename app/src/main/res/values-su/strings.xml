@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tubes_1718039</string>
+    <string name="action_setting">Pengaturan</string>
+    <string name="action_setting_language">"Basa "</string>
+    <string name="key_setting_locale">pengaturan</string>
+    <string name="label_setting_locale_summary">Ubah Bahasa Perangkat</string>
+    <string name="label_setting_locale_title">Ubah Bahasa</string>
+    <string name="label_posting">Postingan</string>
+    <string name="label_followers">Pengikut</string>
+    <string name="label_follow">Mengikuti</string>
+    <string name="show_comments">Hai guys ini foto saya dibali ,saya lagi berlibur dengan keluarga saya ,saya sedang menikmati segelas teh</string>
+    <string name="show_comments2">hallo ini merupakan kesempatan pertama saya jadi wisatawan di pulau bali</string>
+    <string name="show_comments3">Hallo nama saya ido eka wiranata saya memiliki hobbi fotografi warna kesukaan saya warna kuning </string>
+    <string name="kampus">Institut Teknologi Nasional</string>
+    <string name="btn_follow">"Ikuti "</string>
+</resources>
